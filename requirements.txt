@@ -8,3 +8,5 @@ langchain-community
 langchain-huggingface
 sentence-transformers
 huggingface_hub
+torchvision
+beautifulsoup4
