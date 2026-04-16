@@ -1,4 +1,4 @@
-# Serverless RAG Q&A Application 🚀
+# Multi-format RAG Q&A Application 🚀
 
 Welcome to the Serverless RAG (Retrieval-Augmented Generation) Q&A Application! This Streamlit-based web app allows you to upload various documents (PDFs, Text Files, DOCX, or web Links) and ask questions about their content.
 
